@@ -595,6 +595,7 @@ Grouped by access need. Each tool appears once, in its main group; many serve mo
 
 - [Color Blind Tests](https://colorblindtests.net/) - Free browser-based color vision screening with Ishihara plate and Farnsworth D-15 tests, in several languages and with no signup. Online screening is not a medical diagnosis.
 - [Colorblindness Test](https://whatcoloristhis.one/test/) - Free color vision screening with 14 original plates based on Ishihara and HRR methods, checked using the Viénot-Brettel-Mollon dichromacy model; a screen-based approximation, not a clinical diagnosis. [Open source](https://github.com/lukeslp/color-vision-plates) for web, iOS and Android.
+- [Color Blindness Simulator](https://colorvisionsimulator.com/) - Free browser-based image review tool for comparing original images with color-vision simulations and a grayscale difference view; images are processed in the browser.
 - [What Color Is This?](https://whatcoloristhis.one/) - Point a camera at a color to get its name, details and close matches, with colorblind-safe palettes and simulation. Free on the web, iPhone, iPad and Android.
 
 ### Vision apps and wearables
